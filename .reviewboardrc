@@ -1,0 +1,2 @@
+REVIEWBOARD_URL = 'localhost:8080'
+REPOSITORY = 'testRepo1'
